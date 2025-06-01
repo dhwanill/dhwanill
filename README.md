@@ -16,4 +16,4 @@ Connect with me:
 Languages & Tools:  
 Python | C | C++ | MySQL | Git | Linux | Agile | Scrum | Excel | Vercel
 
-![Dhwanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhwanilll&show_icons=true&theme=radical)
+![Dhwanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhwanill&show_icons=true&theme=radical)
