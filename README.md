@@ -1,7 +1,8 @@
 Hi 👋, I'm Dhwanil Bhavsar
 
-🔒 Passionate about Cybersecurity | 📊 Product Management Enthusiast | 🎥 Photography & Filmmaking  
-🎓 3rd Year B.Tech Student specializing in Information & Cybersecurity  
+🔐 Cybersecurity Enthusiast | 🎥 Photographer & Filmmaker
+🎓 Pursuing B.Tech in Computer Science with a Specialization in Information and Cybersecurity
+💡 Passionate about digital security, visual storytelling, and building creative, impactful communities 
 🚀 Driven to build secure, user-friendly solutions and grow through collaboration  
 
 🔭 Currently working on a web-based productivity app to fight procrastination  
