@@ -12,7 +12,7 @@ Hi 👋, I'm Dhwanil Bhavsar
 📫 Reach me at dhwanilb8@gmail.com  
 
 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/dhwanilll/) | [Instagram @starrry.lens](https://instagram.com/starrry.lens)
+[LinkedIn](https://www.linkedin.com/in/dhwanilll/)
 
 Languages & Tools:  
 Python | C | C++ | MySQL | Git | Linux | Agile | Scrum | Excel | Vercel
